@@ -21,9 +21,8 @@ Tableau visualizations created from the cleaned data are available in the [Table
 
 ### How to View Tableau Visualizations
 
-1. **Download Tableau**: Make sure you have Tableau installed on your machine. You can download it [here](https://public.tableau.com/views/LondonBikeRide_17062582592720/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link).
+1. **Download Tableau**: Make sure you have Tableau installed on your machine. You can view it [here](https://public.tableau.com/views/LondonBikeRide_17062582592720/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link).
 
-2. **Open Tableau Workbooks**: Open the desired Tableau Workbook (`.twb`) file to explore the visualizations.
 
 ## Dataset Source
 
