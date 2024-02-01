@@ -9,7 +9,7 @@ The cleaned dataset is available in the [cleaned_data](bikes.xlsx/) directory. I
 
 ### Data Cleaning Process
 
-1. **Data Cleaning Script**: The data cleaning process is documented in the Jupyter Notebook [`data_cleaning.ipynb`](index.ipynb). This notebook contains the Python code used for cleaning and preprocessing the raw data.
+1. **Data Cleaning Script**: The data cleaning process is documented in the Jupyter Notebook [`index.ipynb`](index.ipynb). This notebook contains the Python code used for cleaning and preprocessing the raw data.
 
 ## Tableau Visualizations
 
