@@ -1,27 +1,23 @@
-# London Bike Sharing Dataset - Cleaned Data and Tableau Visualizations
-
-This project involves cleaning the London Bike Sharing Dataset and creating visualizations using Tableau.
+# London Bike Sharing Dataset
+This project encompasses comprehensive data processing, encompassing tasks such as data cleaning, manipulation, organization, and subsequent visualization of the London Bike Sharing Dataset. Through a series of meticulous steps, raw data has been transformed, cleaned, and organized to derive meaningful insights. The processed data is then utilized to create informative visualizations using Tableau, allowing for a deeper understanding and exploration of key patterns, trends, and relationships within the London Bike Sharing Dataset
 
 ## Cleaned Data
 
-The cleaned dataset is available in the [cleaned_data](cleaned_data/) directory. It includes the following files:
+The cleaned dataset is available in the [cleaned_data](bikes.xlsx/) directory. It includes the following files:
 
 - `cleaned_bike_sharing_data.csv`: Cleaned dataset with preprocessed and transformed features.
 
 ### Data Cleaning Process
 
-1. **Data Cleaning Script**: The data cleaning process is documented in the Jupyter Notebook [`data_cleaning.ipynb`](data_cleaning.ipynb). This notebook contains the Python code used for cleaning and preprocessing the raw data.
-
-2. **Dependencies**: Ensure you have the required Python libraries installed by running `pip install -r requirements.txt`.
-
-3. **Run the Script**: Execute the data cleaning script by running `python data_cleaning.py`.
+1. **Data Cleaning Script**: The data cleaning process is documented in the Jupyter Notebook [`data_cleaning.ipynb`](index.ipynb). This notebook contains the Python code used for cleaning and preprocessing the raw data.
 
 ## Tableau Visualizations
 
-Tableau visualizations created from the cleaned data are available in the [Tableau_Visualizations](Tableau_Visualizations/) directory. Key visualizations include:
+Tableau visualizations created from the cleaned data are available in the [Tableau_Visualizations](London BikeRide .twbx/) directory. Key visualizations include:
 
-- `daily_rentals_dashboard.twb`: Tableau Workbook for exploring daily bike rentals.
+- `Count of London BIkes Rides`: Tableau Workbook for exploring daily bike rentals.
 - `seasonal_trends_dashboard.twb`: Tableau Workbook highlighting seasonal trends.
+- `Temperature Vs Wind speed` : Tableau Workbook heatmap of temperature vs wind speed.
 
 ### How to View Tableau Visualizations
 
@@ -33,14 +29,3 @@ Tableau visualizations created from the cleaned data are available in the [Table
 
 The original London Bike Sharing Dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset).
 
-## Contributing
-
-Contributions are welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For questions or issues, contact [Your Name](mailto:your.email@example.com).
